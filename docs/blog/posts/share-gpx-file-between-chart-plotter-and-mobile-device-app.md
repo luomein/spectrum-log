@@ -11,7 +11,7 @@ title: Share GPX file between chart plotter and mobile device app
 
 # Share GPX file between chart plotter and mobile device app
 
-__Notes on using GPX file for export/import chart routes, tracks and waypoints.__
+__Notes on using GPX file for export/import chart routes, tracks and waypoints when it works and when it not.__
 
 Working envoronment: Garmin GPSMAP 722xs Chart Plotter, iOS Garmin Navionics Boating app, microSD card reader.
 
