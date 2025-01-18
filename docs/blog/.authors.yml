@@ -1,4 +1,8 @@
 authors:
+  luomein:
+    name: luomein
+    description: Creator
+    url: https://github.com/luomein
   squidfunk:
     name: Martin Donath
     description: Creator
