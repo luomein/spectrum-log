@@ -13,7 +13,7 @@ title: Share GPX file between chart plotter and mobile device app
 
 __Notes on using GPX file for export/import chart routes, tracks and waypoints when it works and when it not.__
 
-__GPX, or GPS exchange format, is an XML file format for storing coordinate data. However different GPX viewer handle tracks differently. It makes sharing tracks sometimes fail. You need to know some implicit rules in order to share tracks successfully. On the other hand, sharing routes and waypoints are more straitforward.--
+__GPX, or GPS exchange format, is an XML file format for storing coordinate data. However different GPX viewer handle tracks differently. It makes sharing tracks sometimes fail. You need to know some implicit rules in order to share tracks successfully. On the other hand, sharing routes and waypoints are more straitforward.__
 
 Working envoronment: Garmin GPSMAP 722xs Chart Plotter, iOS Garmin Navionics Boating app, microSD card reader.
 
