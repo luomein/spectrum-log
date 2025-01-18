@@ -19,19 +19,18 @@
 # IN THE SOFTWARE.
 
 # Project information
-site_name: Material for MkDocs
-site_url: https://squidfunk.github.io/mkdocs-material/
-site_author: Martin Donath
+site_name: Spectrum Log
+site_url: https://luomein.github.io/spectrum-log/
+site_author: luomein
 site_description: >-
-  Write your documentation in Markdown and create a professional static site in
-  minutes – searchable, customizable, in 60+ languages, for all devices
+  Material for MkDocs static webpages hosted on GitHub
 
 # Repository
-repo_name: squidfunk/mkdocs-material
-repo_url: https://github.com/squidfunk/mkdocs-material
+repo_name: luomein/spectrum-log
+repo_url: https://github.com/luomein/spectrum-log
 
 # Copyright
-copyright: Copyright &copy; 2016 - 2024 Martin Donath
+copyright: Copyright &copy; 2025 luomein
 
 # Configuration
 theme:
