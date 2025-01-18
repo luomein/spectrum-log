@@ -6,6 +6,7 @@ description: >
   features and made this project sustainable
 categories:
   - General
+draft: true
 ---
 
 # The past, present and future

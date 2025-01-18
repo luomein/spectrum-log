@@ -7,6 +7,7 @@ categories:
 links:
   - publishing-your-site.md#with-github-actions
   - creating-your-site.md#building-your-site
+draft: true
 ---
 
 # Using `git sparse-checkout` for faster documentation builds

@@ -3,6 +3,7 @@ date: 2023-10-02
 authors: [squidfunk, alexvoss]
 categories:
   - General
+draft: true
 ---
 
 # Sunsetting Gitter: Towards Efficient Community Engagement

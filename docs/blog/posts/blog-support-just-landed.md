@@ -9,6 +9,7 @@ categories:
 links:
   - setup/setting-up-a-blog.md
   - plugins/blog.md
+draft: true
 ---
 
 # Blog support just landed

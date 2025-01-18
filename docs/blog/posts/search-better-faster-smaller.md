@@ -11,6 +11,7 @@ categories:
 links:
   - plugins/search.md
   - insiders/how-to-sponsor.md
+draft: true
 ---
 
 # Search: better, faster, smaller

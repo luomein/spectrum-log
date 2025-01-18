@@ -10,6 +10,7 @@ links:
   - blog/posts/search-better-faster-smaller.md
   - setup/setting-up-site-search.md#search-exclusion
   - insiders/how-to-sponsor.md
+draft: true
 ---
 
 # Excluding content from search
