@@ -11,11 +11,13 @@ title: Share GPX file between chart plotter and mobile device app
 
 # Share GPX file between chart plotter and mobile device app
 
-__Notes on using GPX file for export/import routes, tracks and waypoints.__
+__Notes on using GPX file for export/import chart routes, tracks and waypoints.__
 
-We know it's been quite a while since our last update, which is why we're eager to share what's happening in and around Material for MkDocs with you. For the largest part of 2024, we've been focused on transforming the core of Material for MkDocs preparing the ground for new, interconnected features that are amongst the most frequently requested.
+Working envoronment: Garmin GPSMAP 722xs Chart Plotter, iOS Garmin Navionics Boating app, microSD card reader.
 
-This article is the first in a series where we'll explore how we aim to support our users through improved information retrieval, provide better support for multi-lingual sites and versioning, as well as improve the overall authoring experience. We outline our vision for the projects' evolution and describe what we have been working on. In this and the coming blog posts, we will share our progress with you, and we're excited to hear your thoughts.
+Limited condition: Garmin GPSMAP 722xs Chart Plotter is registered under previous owner so that ActiveCaption app can not be used for direct export/import.
+
+Best Practice: Export the tracks in the Active Log in the Garmin GPSMAP 722xs Chart Plotter before saving the tracks to files.
 
 <!-- more -->
 
