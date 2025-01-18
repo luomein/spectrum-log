@@ -27,8 +27,8 @@ In Garmin GPSMAP 722xs Chart Plotter, the track currently being auto recorded is
 
 You could manually save the active track for future reference, but some of the realtime information will be lost. If you save the active track and export it, some GPX viewer, for example, iOS Garmin Navionics Boating app will not read it correctly due to the realtime information lost.
 
-!!! example "Compare tracks information in different GPX file"
-
+!!! example "Compare tracks information"
+    In active track,
     ```gpx
             <trkpt lat="22.4375212938" lon="120.4761361610">
                 <time>2024-12-05T08:40:47Z</time>
@@ -36,6 +36,18 @@ You could manually save the active track for future reference, but some of the r
                     <gpxtpx:TrackPointExtension>
                         <gpxtpx:wtemp>24.26</gpxtpx:wtemp>
                         <gpxtpx:depth>3.46</gpxtpx:depth>
+                    </gpxtpx:TrackPointExtension>
+                </extensions>
+            </trkpt>
+    ```
+
+    In saved track,
+    ```
+            <trkpt lat="21.9477193337" lon="120.7459062897">
+                <extensions>
+                    <gpxtpx:TrackPointExtension>
+                        <gpxtpx:wtemp>21.98</gpxtpx:wtemp>
+                        <gpxtpx:depth>3.24</gpxtpx:depth>
                     </gpxtpx:TrackPointExtension>
                 </extensions>
             </trkpt>
