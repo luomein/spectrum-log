@@ -17,11 +17,15 @@ Working envoronment: Garmin GPSMAP 722xs Chart Plotter, iOS Garmin Navionics Boa
 
 Limited condition: Garmin GPSMAP 722xs Chart Plotter is registered under previous owner so that ActiveCaption app can not be used for direct export/import.
 
-Best Practice: Export the tracks in the Active Log in the Garmin GPSMAP 722xs Chart Plotter before saving the tracks to files.
+Best Practice: Export the tracks in the Active Track in the Garmin GPSMAP 722xs Chart Plotter before saving the tracks to files.
 
 <!-- more -->
 
-## A success story
+## Active Track
+
+In Garmin GPSMAP 722xs Chart Plotter, the track currently being auto recorded is called the active track. It is stored in the track memory. If the memory is full, it may stop recording or overwriteing depending on the user setting.
+
+You could manually save the active track for future reference, but some of the realtime information will be lost. If you save the active track and export it, some GPX viewer, for example, iOS Garmin Navionics Boating app will not read it correctly due to the realtime information lost.
 
 In 2024, Material for MkDocs has firmly established itself as a leading tool in the documentation framework landscape, with more than 5 million downloads each month as of this writing. What began as @squidfunk's personal project has evolved into a versatile resource for creating comprehensive documentation sites, personal websites, blogs, and notably, for managing knowledge both within and outside of organizations.
 
