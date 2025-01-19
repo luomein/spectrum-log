@@ -4,6 +4,7 @@ authors:
   - luomein
 categories:
   - app
+  - Garmin GPSMAP 722xs Chart Plotter
 description: >
   Notes on using GPX file for export/import chart routes, tracks and waypoints when it works and when it not.
 title: Share GPX file between chart plotter and mobile device app
