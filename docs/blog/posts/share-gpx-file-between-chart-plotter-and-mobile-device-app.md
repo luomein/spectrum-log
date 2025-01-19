@@ -68,20 +68,32 @@ If you save the active track and export it, the iOS Garmin Navionics Boating app
 
 For the same reason, if you convert a route to track, the iOS Garmin Navionics Boating app will not read it correctly due to the lack of timestamp information.
 
+On the other hand, there is no special requirements on routes and waypoints. If you convert a track to a route then the iOS Garmin Navionics Boating app can show it. But the problem is, it will look odd because route is assumed for passage planning with sparsed points. The track-converted route has too much points to show.
+
+[track-converted route]: share-gpx-file-between-chart-plotter-and-mobile-device-app/track-converted-route.png
+
 ### Garmin BaseCamp app
 
 All tracks including active track and saved tracks can be shown on the Garmin BaseCamp. No special requirements.
 
+### Relive app
 
+It requires tracks to have timestamp information.
+
+It uses the term 'route' to refer to the track in the GPX file. It can not read routes and waypoints info in the GPX file.
+
+On iOS Relive app, it can not access the gpx file in the iOS file system. Maybe it is a bug. I use a Mac and the Relive website to import GPX file.
+
+## Summarize
   
-| GPX Content      | iOS Garmin Navionics Boating app  |  Garmin BaseCamp app                    |
-| ----------- | ------------------------------------ |--------------------- |
-| active track       | :material-check:     |:material-check:     |
-| saved track       | :material-close:   |:material-check:     |
-| route-converted track    | :material-close:     |:material-check:     |
-| route  | :material-check:     |:material-check:     |
-| track-converted route  | :material-check:     |:material-check:     |
-| waypoints  | :material-check:     |:material-check:     |
+| GPX Content      | iOS Garmin Navionics Boating app  |  Garmin BaseCamp app      |  Relive app |
+| ----------- | ------------------------------------ | --------------------- | -- |
+| active track       | :material-check:     |:material-check:     |:material-check:     |
+| saved track       | :material-close:   |:material-check:     | :material-close:  |
+| route-converted track    | :material-close:     |:material-check:     |:material-close:   |
+| route  | :material-check:     |:material-check:     |:material-close:   |
+| track-converted route  | :material-check:     |:material-check:     |:material-close:   |
+| waypoints  | :material-check:     |:material-check:     |:material-close:   |
 
 
 
