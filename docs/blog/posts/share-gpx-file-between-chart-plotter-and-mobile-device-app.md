@@ -74,7 +74,7 @@ All tracks including active track and saved tracks can be shown on the Garmin Ba
 <div class="result" markdown>
   
 | GPX Content      | iOS Garmin Navionics Boating app  |  Garmin BaseCamp app                    |
-| ----------- | ------------------------------------ |
+| ----------- | ------------------------------------ |--------------------- |
 | active track       | :material-check:     |:material-check:     |
 | saved track       | :material-close:   |:material-check:     |
 | route-converted track    | :material-close:     |:material-check:     |
