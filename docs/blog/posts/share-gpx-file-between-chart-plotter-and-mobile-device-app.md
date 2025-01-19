@@ -61,10 +61,25 @@ How to handle GPX file is dependent on the GPX viewer itself.
 
 It requires tracks to have timestamp information.
 
-Active track can be shown in iOS Garmin Navionics Boating app because it has timestamp information.
+Active track can be shown in the iOS Garmin Navionics Boating app because it has timestamp information.
 
-If you save the active track and export it, iOS Garmin Navionics Boating app will not read it correctly due to the timestamp information lost.
+If you save the active track and export it, the iOS Garmin Navionics Boating app will not read it correctly due to the timestamp information lost.
+
+For the same reason, if you convert a route to track, the iOS Garmin Navionics Boating app will not read it correctly due to the lack of timestamp information.
 
 ### Garmin BaseCamp app
 
-All tracks including active track and saved tracks can be shown on Garmin BaseCamp. No special requirements.
+All tracks including active track and saved tracks can be shown on the Garmin BaseCamp. No special requirements.
+
+| GPX Content      | iOS Garmin Navionics Boating app  |  Garmin BaseCamp app                    |
+| ----------- | ------------------------------------ |
+| active track       | :material-check:     |:material-check:     |
+| saved track       | :material-close:   |:material-check:     |
+| route-converted track    | :material-close:     |:material-check:     |
+| route  | :material-check:     |:material-check:     |
+| track-converted route  | :material-check:     |:material-check:     |
+| waypoints  | :material-check:     |:material-check:     |
+
+
+
+
