@@ -70,6 +70,10 @@ For the same reason, if you convert a route to track, the iOS Garmin Navionics B
 
 On the other hand, there is no special requirements on routes and waypoints. If you convert a track to a route then the iOS Garmin Navionics Boating app can show it. But the problem is, it will look odd because route is assumed for passage planning with sparsed points. The track-converted route has too much points to show.
 
+![test][test]
+
+![track-converted route][track-converted route]
+
   [track-converted route]: share-gpx-file-between-chart-plotter-and-mobile-device-app/track-converted-route.png
 
   [test]: the-past-present-and-future/mkdocs-material-0.1.0.png
