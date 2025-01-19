@@ -84,15 +84,6 @@ All tracks including active track and saved tracks can be shown on the Garmin Ba
 
 
 
-<div class="result" markdown>
-
-| Method      | Description                          |
-| ----------- | ------------------------------------ |
-| `GET`       | :material-check:     Fetch resource  |
-| `PUT`       | :material-check-all: Update resource |
-| `DELETE`    | :material-close:     Delete resource |
-
-</div>
 
 
 
