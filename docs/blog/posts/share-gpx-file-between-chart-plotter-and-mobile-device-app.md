@@ -72,6 +72,8 @@ On the other hand, there is no special requirements on routes and waypoints. If 
 
 [track-converted route]: share-gpx-file-between-chart-plotter-and-mobile-device-app/track-converted-route.png
 
+[test]: the-past-present-and-future/mkdocs-material-0.1.0.png
+
 ### Garmin BaseCamp app
 
 All tracks including active track and saved tracks can be shown on the Garmin BaseCamp. No special requirements.
