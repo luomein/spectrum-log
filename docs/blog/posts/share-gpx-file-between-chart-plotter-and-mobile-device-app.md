@@ -25,9 +25,7 @@ Best Practice: Export the tracks in the Active Track in the Garmin GPSMAP 722xs 
 
 In Garmin GPSMAP 722xs Chart Plotter, the track currently being auto recorded is called the active track. It is stored in the track memory. If the memory is full, it may stop recording or overwriteing depending on the user setting.
 
-You could manually save the active track for future reference, but some of the realtime information will be lost. If you save the active track and export it, some GPX viewer, for example, iOS Garmin Navionics Boating app will not read it correctly due to the realtime information lost.
-
-How to handle GPX file is dependent on the GPX viewer itself. The saved track can not be shown on iOS Garmin Navionics Boating app, however can be shown on Garmin BaseCamp.
+You could manually save the active track for future reference, but some of the realtime information will be lost. 
 
 !!! example "Compare tracks information"
     In active track,
@@ -54,3 +52,19 @@ How to handle GPX file is dependent on the GPX viewer itself. The saved track ca
                 </extensions>
             </trkpt>
     ```
+
+## GPX Viewer
+
+How to handle GPX file is dependent on the GPX viewer itself. 
+
+### iOS Garmin Navionics Boating app
+
+It requires tracks to have timestamp information.
+
+Active track can be shown in iOS Garmin Navionics Boating app because it has timestamp information.
+
+If you save the active track and export it, iOS Garmin Navionics Boating app will not read it correctly due to the timestamp information lost.
+
+### Garmin BaseCamp app
+
+All tracks including active track and saved tracks can be shown on Garmin BaseCamp. No special requirements.
