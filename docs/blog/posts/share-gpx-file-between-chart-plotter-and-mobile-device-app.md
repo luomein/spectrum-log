@@ -71,7 +71,7 @@ For the same reason, if you convert a route to track, the iOS Garmin Navionics B
 
 All tracks including active track and saved tracks can be shown on the Garmin BaseCamp. No special requirements.
 
-<div class="result" markdown>
+
   
 | GPX Content      | iOS Garmin Navionics Boating app  |  Garmin BaseCamp app                    |
 | ----------- | ------------------------------------ |--------------------- |
@@ -82,7 +82,7 @@ All tracks including active track and saved tracks can be shown on the Garmin Ba
 | track-converted route  | :material-check:     |:material-check:     |
 | waypoints  | :material-check:     |:material-check:     |
 
-</div>
+
 
 <div class="result" markdown>
 
