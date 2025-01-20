@@ -181,6 +181,20 @@ not_in_nav: |
 # Page tree
 nav:
   - Home: index.md
+  - Tracks: tracks.md
+  - Wordbank:
+    - Rigging:
+      - Folding Rule Method: folding-rule-method.md
+    - Navigation:
+      - Velosity Made Good (VMG): vmg.md
+  - Following:
+    - Lifestyle:
+      - GoSun Solar Oven: gosun.md
+    - Tech:
+      - Nigel Calder: nigel-calder.md
+  - Tutorial:
+    - Splice: splice.md
+    
   - Getting started:
     - Installation: getting-started.md
     - Creating your site: creating-your-site.md
@@ -262,25 +276,7 @@ nav:
     - Lists: reference/lists.md
     - Math: reference/math.md
     - Tooltips: reference/tooltips.md
-  - Insiders:
-    - insiders/index.md
-    - Why sponsor us: insiders/why-sponsor-us.md
-    - What's in it for you: insiders/benefits.md
-    - Who is sponsoring: insiders/our-sponsors.md
-    - Sponsoring tiers: insiders/sponsoring-tiers.md
-    - How to sponsor: insiders/how-to-sponsor.md
-    - Additional information:
-      - Payment and billing: insiders/payment-and-billing.md
-      - Access management: insiders/access-management.md
-      - Runtime and cancellation: insiders/runtime-and-cancellation.md
-      - Privacy: insiders/privacy.md
-      - License: insiders/license.md
-      - Support: support.md
-    - Using Insiders:
-      - Getting started: insiders/getting-started.md
-    - Changelog:
-      - insiders/changelog/index.md
-      - How to upgrade: insiders/upgrade.md
+
   - Community:
     - Contributing:
       - contributing/index.md
