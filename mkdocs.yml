@@ -185,16 +185,17 @@ nav:
   - Wordbank:
     - Rigging:
       - Rope Type: 'wordbank/rigging/rope-type.md'
-      - Folding Rule Method: folding-rule-method.md
+      - Folding Rule Method: 'wordbank/rigging/folding-rule-method.md'
     - Navigation:
-      - Velosity Made Good (VMG): vmg.md
+      - Velosity Made Good (VMG): 'wordbank/navigation/vmg.md'
   - Following:
     - Lifestyle:
-      - GoSun Solar Oven: gosun.md
+      - GoSun Solar Oven: 'following/lifestyle/gosun.md'
     - Tech:
-      - Nigel Calder: nigel-calder.md
+      - Nigel Calder: 'following/tech/nigel-calder.md'
   - Tutorial:
-    - Splice: splice.md
+    - Ropework:
+      - Splice: 'tutorial/ropework/splice.md'
   - Maintenance:
     - Engine:
       - Parts Book: maintenance/engine/parts-book.md
