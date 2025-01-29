@@ -50,9 +50,9 @@ theme:
     # - navigation.expand
     - navigation.footer
     - navigation.indexes
-    # - navigation.instant
+    - navigation.instant
     # - navigation.instant.prefetch
-    # - navigation.instant.progress
+    - navigation.instant.progress
     # - navigation.prune
     - navigation.sections
     - navigation.tabs
@@ -182,12 +182,7 @@ not_in_nav: |
 nav:
   - Home: index.md
   - Tracks: tracks.md
-  - Wordbank:
-    - Rigging:
-      - Rope Type: 'wordbank/rigging/rope-type.md'
-      - Folding Rule Method: 'wordbank/rigging/folding-rule-method.md'
-    - Navigation:
-      - Velosity Made Good (VMG): 'wordbank/navigation/vmg.md'
+  - Wordbank: 'wordbank/index.md'
   - Following:
     - Lifestyle:
       - GoSun Solar Oven: 'following/lifestyle/gosun.md'

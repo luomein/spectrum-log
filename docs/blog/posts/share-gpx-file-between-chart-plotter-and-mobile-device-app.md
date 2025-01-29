@@ -70,7 +70,7 @@ For the same reason, if you convert a route to track, the iOS Garmin Navionics B
 
 On the other hand, there is no special requirements on routes and waypoints. If you convert a track to a route then the iOS Garmin Navionics Boating app can show it. But the problem is, it will look odd because route is assumed for passage planning with sparsed points. The track-converted route has too much points to show.
 
-![track-converted route][track-converted route]
+![track-converted route][track-converted route]{width=50%}
 
   [track-converted route]: share-gpx-file-between-chart-plotter-and-mobile-device-app/track-converted-route.png
 
@@ -86,16 +86,24 @@ It uses the term 'route' to refer to the track in the GPX file. It can not read 
 
 On iOS Relive app, it can not access the gpx file in the iOS file system. Maybe it is a bug. I use a Mac and the Relive website to import GPX file.
 
+### TZ iBoat app
+
+All tracks including active track and saved tracks can be shown on the [TIMEZERO(TZ) iBoat](https://mytimezero.com/tz-iboat). No special requirements.
+
+But its detailed chart does not include Taiwan.
+
+![tz-iboat](share-gpx-file-between-chart-plotter-and-mobile-device-app/tz-iboat.png){width=50%}
+
 ## Summarize
   
-| GPX Content      | iOS Garmin Navionics Boating app  |  Garmin BaseCamp app      |  Relive app |
-| ----------- | ------------------------------------ | --------------------- | -- |
-| active track       | :material-check:     |:material-check:     |:material-check:     |
-| saved track       | :material-close:   |:material-check:     | :material-close:  |
-| route-converted track    | :material-close:     |:material-check:     |:material-close:   |
-| route  | :material-check:     |:material-check:     |:material-close:   |
-| track-converted route  | :material-check:     |:material-check:     |:material-close:   |
-| waypoints  | :material-check:     |:material-check:     |:material-close:   |
+| GPX Content      | iOS Garmin Navionics Boating app  |  Garmin BaseCamp app      |  Relive app | TZ iBoat app |
+| ----------- | ------------------------------------ | --------------------- | -- | -- |
+| active track       | :material-check:     |:material-check:     |:material-check:     |:material-check: |
+| saved track       | :material-close:   |:material-check:     | :material-close:  |:material-check: |
+| route-converted track    | :material-close:     |:material-check:     |:material-close:   |:material-check: |
+| route  | :material-check:     |:material-check:     |:material-close:   |:material-check: |
+| track-converted route  | :material-check:     |:material-check:     |:material-close:   |:material-check: |
+| waypoints  | :material-check:     |:material-check:     |:material-close:   |:material-check: |
 
 
 
