@@ -182,7 +182,10 @@ not_in_nav: |
 nav:
   - Home: index.md
   - Tracks: tracks.md
-  - Wordbank: 'wordbank/index.md'
+  - Wordbank: 
+    - 'wordbank/index.md'
+    - Rigging: 'wordbank/rigging/index.md'
+    - Navigation: 'wordbank/navigation/index.md'
   - Following:
     - Lifestyle:
       - GoSun Solar Oven: 'following/lifestyle/gosun.md'
@@ -192,9 +195,11 @@ nav:
     - Ropework:
       - Splice: 'tutorial/ropework/splice.md'
   - Maintenance:
+    - maintenance/index.md
     - Engine:
       - Parts Book: maintenance/engine/parts-book.md
     - Navigation:
+      - VHF: maintenance/navigation/icom-VHF.md
       - Windpilot: maintenance/navigation/windpilot.md  
   - Blog:
     - blog/index.md
