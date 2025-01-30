@@ -1,5 +1,5 @@
-# Icom IC-M604 VHF Marine Transceiver
+# Simrad TP32 Tillerpilot
 
-[Instruction Manual](icom-VHF/IC-M604_manual.pdf) 
+[User Guide](simrad-autopilot/Autopilote Simrad TP32.pdf) 
 
-
+[Service Manual](simrad-autopilot/TP2232 Service Manual 1.0.pdf)
