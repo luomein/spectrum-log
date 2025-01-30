@@ -36,6 +36,20 @@
 
     lube main sail track
 
+* Paperwork
+
+    apply new MMSI
+
+* VHF and AIS
+
+    reprogram with new MMSI
+
+* Electronics
+
+    identify each anttenas
+
+    NMEA 2000
+
 ## Workshop Info
 
 * Yanmar
