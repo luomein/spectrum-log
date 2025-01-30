@@ -1,7 +1,7 @@
 # Navigation
 
-[Velosity Made Good (VMG)](navigation/vmg.md)
+[Velosity Made Good (VMG)](vmg.md)
 
 ## AIS
 
-[Closest Point of Approach (CPA)](navigation/AIS/CPA.md)
+[Closest Point of Approach (CPA)](AIS/CPA.md)
