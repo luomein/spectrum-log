@@ -54,6 +54,10 @@
 
     service the winches
 
+    solar panel frame branch corrosion cut off
+
+    heater chimney teak crack
+
 * Ropework
 
     splice
