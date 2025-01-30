@@ -50,6 +50,18 @@
 
     NMEA 2000
 
+* Deck
+
+    service the winches
+
+* Ropework
+
+    splice
+
+    whipping
+
+    soft needle
+
 ## Workshop Info
 
 * Yanmar
