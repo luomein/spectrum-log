@@ -32,6 +32,10 @@
 
     dodger restitch
 
+* Mast
+
+    lube main sail track
+
 ## Workshop Info
 
 * Yanmar

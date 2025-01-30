@@ -197,9 +197,15 @@ nav:
   - Maintenance:
     - maintenance/index.md
     - Engine:
-      - Parts Book: maintenance/engine/parts-book.md
+      - maintenance/engine/yanmar2GM20.md
     - Navigation:
       - VHF: maintenance/navigation/icom-VHF.md
       - Windpilot: maintenance/navigation/windpilot.md  
+      - Autopilot: maintenance/navigation/simrad-autopilot.md
+    - Safety:
+      - Lifejacket: maintenance/safety/lifejacket.md
+    - Others:
+      - Fender: maintenance/others/fender.md
+      - Inflatable Boat: maintenance/others/inflatable-boat.md
   - Blog:
     - blog/index.md

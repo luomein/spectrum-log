@@ -1,5 +1,7 @@
 # Navigation
 
+[Antenna](antenna.md)
+
 [Velosity Made Good (VMG)](vmg.md)
 
 ## AIS
