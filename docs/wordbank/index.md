@@ -17,3 +17,7 @@
 ### Digital Yacht
 
 [Testing NMEA 2000 Networks](https://digitalyacht.net/2023/04/25/testing-nmea-2000-networks/)
+
+## To Study
+
+* DWT, double jaw toggle
