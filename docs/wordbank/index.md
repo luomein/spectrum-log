@@ -13,3 +13,7 @@
 [Everything you need to know about roller furling systems](https://www.svb24.com/en/guide/sailing-made-easy-everything-you-need-to-know-about-roller-furling-systems.html)
 
 [Blocks: How to find the right block for your yacht](https://www.svb24.com/en/guide/blocks-how-to-find-the-right-block-for-your-yacht.html)
+
+### Digital Yacht
+
+[Testing NMEA 2000 Networks](https://digitalyacht.net/2023/04/25/testing-nmea-2000-networks/)
