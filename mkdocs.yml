@@ -180,7 +180,7 @@ not_in_nav: |
 
 # Page tree
 nav:
-  - Home: index.md
+  - About: index.md
   - Tracks: tracks.md
   - Wordbank: 
     - 'wordbank/index.md'
