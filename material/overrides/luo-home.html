@@ -28,7 +28,11 @@
 
   <!-- Additional styles for landing page -->
   <style>
-
+    
+    /* remove gradient https://github.com/squidfunk/mkdocs-material/discussions/6840 */
+    tx-container {
+       background: transparent;
+    }
     /* Application header should be static for the landing page */
     .md-header {
       position: initial;
