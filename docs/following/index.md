@@ -1,4 +1,4 @@
-# Folliowing
+# Following
 
 follow where imagination grows
 
