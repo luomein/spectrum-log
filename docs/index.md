@@ -6,4 +6,4 @@ social:
     title: Documentation that simply works
 ---
 
-Welcome to Material for MkDocs.
+SY Spectrum was built in 1988 in Cape Town.
