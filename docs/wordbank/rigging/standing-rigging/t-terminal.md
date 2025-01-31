@@ -2,6 +2,15 @@
 
 Attachment to the Mast, the top terminals.
 
+## Measurement
+
+The line denotes the measurement point used by the Jimmy Green Rigging Team.
+
+[dfferent terminal](https://jimmygreen.com/img/cms/bearing-edges-wire-terminals-2.jpg)
+
+Measure from Bearing Edge to Bearing Edge
+
+[Measure from Bearing Edge to Bearing Edge](https://jimmygreen.com/img/cms/standing-rigging/wire-measure-bearing-edges.jpg)
 
 ## Reference
 
