@@ -20,7 +20,7 @@
   IN THE SOFTWARE.
 -->
 
-{% extends "luo-main.html" %}
+{% extends "main.html" %}
 
 <!-- Render hero under tabs -->
 {% block tabs %}
@@ -30,11 +30,11 @@
   <style>
     
     /* remove gradient https://github.com/squidfunk/mkdocs-material/discussions/6840 */
-    mdx-hero__image {
+    .luo-bgimage {
        opacity: 0.3;
        position: absolute;
        left: 0;
-       top: 0;
+       top: 100px;
        width: 100%;
        height: auto;
     }
@@ -43,54 +43,16 @@
       position: initial;
     }
 
-    /* Remove spacing, as we cannot hide it completely */
-    .md-main__inner {
-      margin: 0;
-    }
-
-    /* Hide main content for now */
-    .md-content {
-      display: none;
-    }
-
-    /* Hide table of contents */
-    @media screen and (min-width: 60em) {
-      .md-sidebar--secondary {
-        display: none;
-      }
-    }
-
-    /* Hide navigation */
-    @media screen and (min-width: 76.25em) {
-      .md-sidebar--primary {
-        display: none;
-      }
-    }
   </style>
 
-  <!-- Hero for landing page -->
-  <section class="mdx-container">
-    <div class="md-grid md-typeset">
-      <div class="mdx-hero">
-
-        <!-- Hero image -->
-        <div class="mdx-hero__image">
-          <img
+  <img class="luo-bgimage"
             src="assets/images/L34.JPG"
             alt=""
             width="1120"
             height="1514"
             draggable="false"
           >
-        </div>
 
-        <!-- Hero content -->
-        <div class="mdx-hero__content">
-          
-        </div>
-      </div>
-    </div>
-  </section>
 {% endblock %}
 
 <!-- Content -->
