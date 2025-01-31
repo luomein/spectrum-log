@@ -2,6 +2,16 @@
 
 ## To Read
 
+### Jimmy Green Marine
+
+[Jimmy Green Danbuoys](https://jimmygreen.com/800-jimmy-green-danbuoys)
+
+[10 Good Reasons to get your Ropes Whipped](https://jimmygreen.com/content/300-10-good-reasons-to-get-your-ropes-whipped)
+
+[How to Identify and Specify Your Standing Rigging Components](https://jimmygreen.com/content/243-how-to-identify-and-specify-your-standing-rigging-components?srsltid=AfmBOoqGxFI0Noj7XpsY_moKLo9H5pyFK7rSe69DxvW5Lzd-lEyumtpQ)
+
+[Types of Rope Splices](https://jimmygreen.com/content/185-types-of-rope-splices)
+
 ### SVB
 
 [Why every boat should be equipped with a radar antenna](https://www.svb24.com/en/guide/why-every-boat-should-be-equipped-with-a-radar-antenna.html)
