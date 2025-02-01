@@ -28,7 +28,7 @@ SY Spectrum was built in 1988 in Cape Town, a Lavranos L34 racer-cruiser.
 |Keel |  Fin with bulb |
 | Launched | 1988 |
 
-SY Spectrum sailed from South African to Cape Horn, Antarctica, the Chilean Channels and across the Pacific Ocean all the way until now in Taiwan.
+SY Spectrum sailed from South African to Cape Horn, Antarctica, the Chilean Channels and across the Pacific Ocean, and finally reached Taiwan.
 
 SY Spectrum is attuning to fields of majesty.
 
