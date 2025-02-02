@@ -190,6 +190,8 @@ nav:
     - Navigation: 'wordbank/navigation/index.md'
   - Following:
     - 'following/index.md'
+    - Author:
+      - 'following/author/index.md'
     - Lifestyle:
       - GoSun Solar Oven: 'following/lifestyle/gosun.md'
     - Tech:
