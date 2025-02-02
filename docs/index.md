@@ -32,7 +32,7 @@ SY Spectrum sailed from South African to Cape Horn, Antarctica, the Chilean Chan
 
 SY Spectrum is attuning to fields of majesty.
 
-Current owner is the 5th owner of SY Spectrum. Here is the boat keeper's humble log as they listening and tunning.
+Current owner is the 5th owner of SY Spectrum. Here is the boat keeper's humble log as they are listening and tunning.
 
 
     
