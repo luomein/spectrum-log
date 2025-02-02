@@ -92,6 +92,10 @@
 
         new L.GPX(url, {
           async: true,
+          gpx_options: {
+               joinTrackSegments: false,
+               parseElements : ['track'],
+          },
         }).on('loaded', function(e) {
           var gpx = e.target;
           map.fitBounds(gpx.getBounds());
