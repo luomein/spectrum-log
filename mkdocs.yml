@@ -181,9 +181,11 @@ not_in_nav: |
 # Page tree
 nav:
   - About: index.md
-  - Tracks: tracks.md
+  - Tracks: 
+    - tracks/index.md
   - Wordbank: 
     - 'wordbank/index.md'
+    - Ropework: 'wordbank/ropework/index.md'  
     - Rigging: 'wordbank/rigging/index.md'
     - Navigation: 'wordbank/navigation/index.md'
   - Following:
@@ -193,8 +195,7 @@ nav:
     - Tech:
       - Nigel Calder: 'following/tech/nigel-calder.md'
   - Tutorial:
-    - Ropework:
-      - Splice: 'tutorial/ropework/splice.md'
+    - 'tutorial/index.md'
   - Maintenance:
     - maintenance/index.md
     - Engine:

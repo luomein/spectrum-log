@@ -8,8 +8,6 @@
 
 ## Running Rigging
 
-[Rope Type](running-rigging/rope-type.md)
-
 [Preventer](running-rigging/preventer.md)
 
 
