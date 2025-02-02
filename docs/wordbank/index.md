@@ -8,8 +8,6 @@
 
 [10 Good Reasons to get your Ropes Whipped](https://jimmygreen.com/content/300-10-good-reasons-to-get-your-ropes-whipped)
 
-[How to Identify and Specify Your Standing Rigging Components](https://jimmygreen.com/content/243-how-to-identify-and-specify-your-standing-rigging-components?srsltid=AfmBOoqGxFI0Noj7XpsY_moKLo9H5pyFK7rSe69DxvW5Lzd-lEyumtpQ)
-
 [Types of Rope Splices](https://jimmygreen.com/content/185-types-of-rope-splices)
 
 ### SVB
@@ -32,9 +30,8 @@
 
 * DWT, double jaw toggle
 
-* Terminal
+* whipping
 
-    [How to Identify and Specify Your Standing Rigging Components](https://jimmygreen.com/content/243-how-to-identify-and-specify-your-standing-rigging-components?srsltid=AfmBOoqGxFI0Noj7XpsY_moKLo9H5pyFK7rSe69DxvW5Lzd-lEyumtpQ)
-    ![different types of terminal](https://jimmygreen.com/img/cms/bearing-edges-wire-terminals-2.jpg)
+    [How to Tie 5 TYPES of WHIPPING in Rope](https://www.youtube.com/watch?v=NSeqmf9ZtuM)
 
   
