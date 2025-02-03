@@ -190,6 +190,7 @@ nav:
     - Navigation: 'wordbank/navigation/index.md'
   - Following:
     - 'following/index.md'
+    - Podcast: 'following/podcast/index.md'
     - Author:
       - 'following/author/index.md'
     - Lifestyle:
@@ -204,6 +205,7 @@ nav:
       - maintenance/engine/yanmar2GM20.md
     - Navigation:
       - VHF: maintenance/navigation/icom-VHF.md
+      - AIS: maintenance/navigation/icom-AIS.md
       - Windpilot: maintenance/navigation/windpilot.md  
       - Autopilot: maintenance/navigation/simrad-autopilot.md
     - Safety:
