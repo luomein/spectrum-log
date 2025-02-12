@@ -1,14 +1,16 @@
-# Parts Book 
+# Fender
 
-Parts number can not be found in the workshop manual. It is referred in other resource.
+## Polyform Fender
 
-## Useful Website
+The products are designed to be inflated to 0.15 to 0.20 bar of pressure at 20° celsius.
 
-### French Marine Motors
+[User Guide](https://polyform.no/user-guide/)
 
-This website provides enlargable chart and clickable. The interactive is very handy.
+The V-10 and V-40 valves
 
-[FIG 1. CYLINDER BLOCK](https://yanmarshop.com/en-GB/catalog/all/servicebom/yanmardata-845935/yanmar-marine-marine-main-engine-small-gm-series-2gm20-fig-1-cylinder-block)
+![The V-10 and V-40 valves](https://polyform.no/wp-content/uploads/2024/09/polyform_valves-768x574.jpg)
 
-[FIG 39. COOLING WATER PIPE](https://yanmarshop.com/en-GB/catalog/all/servicebom/yanmardata-846239/yanmar-marine-marine-main-engine-small-gm-series-2gm20-fig-39-cooling-water-pipe)
+Polyform unique inflation adapter
+
+![Polyform unique inflation adapter](https://polyform.no/wp-content/uploads/2024/09/polyform_inflation-adapter-black_lr.jpg)
 
