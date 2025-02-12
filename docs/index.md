@@ -35,4 +35,8 @@ SY Spectrum is attuning to fields of majesty.
 Current owner is the 5th owner of SY Spectrum. Here is the boat keeper's humble log while listening and tunning.
 
 
+
+
+
+<br><br><br><br>
     
