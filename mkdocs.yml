@@ -211,7 +211,7 @@ nav:
     - Safety:
       - Lifejacket: maintenance/safety/lifejacket.md
     - Deck:  
-      - Hatch: maintenance/others/hatch.md
+      - Hatch: maintenance/deck/hatch.md
     - Others:
       - Fender: maintenance/others/fender.md
       - Inflatable Boat: maintenance/others/inflatable-boat.md
