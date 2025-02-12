@@ -212,6 +212,7 @@ nav:
       - Lifejacket: maintenance/safety/lifejacket.md
     - Others:
       - Fender: maintenance/others/fender.md
+      - Hatch: maintenance/others/hatch.md
       - Inflatable Boat: maintenance/others/inflatable-boat.md
   - Blog:
     - blog/index.md
