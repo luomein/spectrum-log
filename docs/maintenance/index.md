@@ -76,6 +76,8 @@
 
 * Lofrans
 
+    亞春機電 802 高雄市 苓雅區 民權一路34號8樓之1 07-3331191 ade.taiwan@msa.hinet.ne
+
 * Icom
 
 * Polyform
