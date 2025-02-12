@@ -4,6 +4,8 @@
 
 The products are designed to be inflated to 0.15 to 0.20 bar of pressure at 20° celsius.
 
+In tropical conditions / high temperatures / sun: reduce to 0.05 - 0.06 bar.
+
 [User Guide](https://polyform.no/user-guide/)
 
 The V-10 and V-40 valves
