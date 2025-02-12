@@ -210,9 +210,10 @@ nav:
       - Autopilot: maintenance/navigation/simrad-autopilot.md
     - Safety:
       - Lifejacket: maintenance/safety/lifejacket.md
+    - Deck:  
+      - Hatch: maintenance/others/hatch.md
     - Others:
       - Fender: maintenance/others/fender.md
-      - Hatch: maintenance/others/hatch.md
       - Inflatable Boat: maintenance/others/inflatable-boat.md
   - Blog:
     - blog/index.md
