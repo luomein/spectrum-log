@@ -66,7 +66,7 @@
 
     soft needle
 
-## Workshop Info
+## Dealer Info
 
 * Yanmar
 
@@ -79,6 +79,10 @@
 * Icom
 
 * Polyform
+
+* Vetus
+
+    長運國際貿易有限公司(MERC. INTERNATIONAL TRADE CO., LTD.),統編:28592883,電話:07-8133233,傳真:07-8133236,公司所在地:高雄市小港區崇善街15號 
 
 ## Consumables
 
