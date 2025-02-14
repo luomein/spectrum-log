@@ -3,7 +3,7 @@
  <img style="opacity:0.2;position:absolute;right: 0;
        top: 100px;
        width: auto;
-       height: 100%;
+       height: auto;
        z-index: -999;
 "
             src="assets/images/L34.JPG"
