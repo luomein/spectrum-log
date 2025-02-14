@@ -203,6 +203,9 @@ nav:
     - maintenance/index.md
     - Engine:
       - maintenance/engine/yanmar2GM20.md
+    - PV & Battery:
+      - Solar Charge Controller: battery/victron-energy-solar-charge-controller.md
+      - Inverter: battery/victron-energy-inverter.md
     - Navigation:
       - VHF: maintenance/navigation/icom-VHF.md
       - AIS: maintenance/navigation/icom-AIS.md
