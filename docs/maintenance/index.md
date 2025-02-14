@@ -84,7 +84,13 @@
 
 * Vetus
 
-    長運國際貿易有限公司(MERC. INTERNATIONAL TRADE CO., LTD.),統編:28592883,電話:07-8133233,傳真:07-8133236,公司所在地:高雄市小港區崇善街15號 
+    長運國際貿易有限公司(MERC. INTERNATIONAL TRADE CO., LTD.),統編:28592883,電話:07-8133233,傳真:07-8133236,公司所在地:高雄市小港區崇善街15號
+
+* Victron Energy
+
+    formay 富貿儀器 台中市 龍井區 三港路326巷17號 04 2638-0770
+  
+    [website](https://www.formay.com.tw/)
 
 ## Consumables
 
