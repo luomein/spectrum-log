@@ -188,11 +188,12 @@ nav:
     - Ropework: 'wordbank/ropework/index.md'  
     - Rigging: 'wordbank/rigging/index.md'
     - Navigation: 'wordbank/navigation/index.md'
+    - PV & Battery: 'wordbank/battery/index.md'
   - Following:
     - 'following/index.md'
     - Podcast: 'following/podcast/index.md'
-    - Author:
-      - 'following/author/index.md'
+    - Author: 'following/author/index.md'
+    - Blogger: 'following/blogger/index.md'
     - Lifestyle:
       - GoSun Solar Oven: 'following/lifestyle/gosun.md'
     - Tech:
@@ -202,7 +203,9 @@ nav:
   - Maintenance:
     - maintenance/index.md
     - Engine:
-      - maintenance/engine/yanmar2GM20.md
+      - YANMAR 2GM20: maintenance/engine/yanmar2GM20.md
+      - Jerry Can: maintenance/engine/jerry-can.md
+      - Engine Room: maintenance/engine/engine-room.md 
     - PV & Battery:
       - Solar Charge Controller: maintenance/battery/victron-energy-solar-charge-controller.md
       - Inverter: maintenance/battery/victron-energy-inverter.md
@@ -215,6 +218,10 @@ nav:
       - Lifejacket: maintenance/safety/lifejacket.md
     - Deck:  
       - Hatch: maintenance/deck/hatch.md
+    - Hull:
+      - Bilge: maintenance/hull/bilge.md
+    - Interior:
+      - Wood: maintenance/interior/wood.md
     - Others:
       - Fender: maintenance/others/fender.md
       - Inflatable Boat: maintenance/others/inflatable-boat.md

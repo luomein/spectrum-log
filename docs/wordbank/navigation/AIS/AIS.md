@@ -42,7 +42,11 @@ AIS allows electronically data transmission of static and dynamic vessel informa
 
 * Time to the closest point of approach (TCPA);  
 
-* Time stamps (UTC), which is the UTC (in seconds) when the subject data packet was generated. 
+* Time stamps (UTC), which is the UTC (in seconds) when the subject data packet was generated.
+
+## AIS Message Types
+
+[a listing of current AIS Messages, their priorities, and their access schemes used to transmit data](https://www.navcen.uscg.gov/ais-messages) 
 
 ## AIS API
 
