@@ -1,14 +1,7 @@
-# Parts Book 
+# Inflatable Boat
 
-Parts number can not be found in the workshop manual. It is referred in other resource.
+[hercules-inflatable-boat.pdf](hercules-inflatable-boat/hercules-inflatable-boat.pdf)
 
-## Useful Website
+* Inflatable SUP Is a Great Alternative to Dinghies
 
-### French Marine Motors
-
-This website provides enlargable chart and clickable. The interactive is very handy.
-
-[FIG 1. CYLINDER BLOCK](https://yanmarshop.com/en-GB/catalog/all/servicebom/yanmardata-845935/yanmar-marine-marine-main-engine-small-gm-series-2gm20-fig-1-cylinder-block)
-
-[FIG 39. COOLING WATER PIPE](https://yanmarshop.com/en-GB/catalog/all/servicebom/yanmardata-846239/yanmar-marine-marine-main-engine-small-gm-series-2gm20-fig-39-cooling-water-pipe)
-
+[Top 5 Reasons Why an Inflatable SUP Should Be Your Next Yacht Accessory](https://www.safe-skipper.com/top-5-reasons-why-an-inflatable-sup-should-be-your-next-yacht-accessory/)
