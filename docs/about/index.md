@@ -1,4 +1,4 @@
-# About
+# Spectrum
 
  <img style="opacity:0.2;position:absolute;right: 0;
        top: 100px;
