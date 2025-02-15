@@ -180,7 +180,9 @@ not_in_nav: |
 
 # Page tree
 nav:
-  - About: index.md
+  - About: 
+    - Spectrum: 'about/index.md'
+    - Model History: 'about/model-history.md'
   - Tracks: 
     - tracks/index.md
   - Wordbank: 
