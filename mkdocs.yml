@@ -210,6 +210,7 @@ nav:
       - Solar Charge Controller: maintenance/battery/victron-energy-solar-charge-controller.md
       - Inverter: maintenance/battery/victron-energy-inverter.md
     - Navigation:
+      - Chart Plotter: maintenance/navigation/garmin-chart-plotter.md
       - VHF: maintenance/navigation/icom-VHF.md
       - AIS: maintenance/navigation/icom-AIS.md
       - Windpilot: maintenance/navigation/windpilot.md  
