@@ -1,6 +1,6 @@
 # Sailing Japan
 
-## Konpira Consulting
+## [Konpira Consulting](https://www.konpira-consulting.com)
 
 [Two Rallies to Explore Japan in 2025](https://www.konpira-consulting.com/rallies/index.html)
 
