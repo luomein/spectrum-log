@@ -191,6 +191,7 @@ nav:
     - Rigging: 'wordbank/rigging/index.md'
     - Navigation: 'wordbank/navigation/index.md'
     - PV & Battery: 'wordbank/battery/index.md'
+    - Design: 'wordbank/design/index.md'
   - Following:
     - 'following/index.md'
     - Podcast: 'following/podcast/index.md'
@@ -200,6 +201,7 @@ nav:
       - GoSun Solar Oven: 'following/lifestyle/gosun.md'
     - Tech:
       - Nigel Calder: 'following/tech/nigel-calder.md'
+    - Sailing Japan: 'following/sailing-japan/index.md'
   - Tutorial:
     - 'tutorial/index.md'
   - Maintenance:
