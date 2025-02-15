@@ -181,7 +181,7 @@ not_in_nav: |
 # Page tree
 nav:
   - About: 
-    - Spectrum: 'index.md'
+    - 'index.md'
     - Model History: 'about/model-history.md'
   - Tracks: 
     - tracks/index.md
