@@ -225,6 +225,7 @@ nav:
       - Hatch: maintenance/deck/hatch.md
     - Hull:
       - Bilge: maintenance/hull/bilge.md
+      - Seacock: maintenance/hull/seacock.md
     - Interior:
       - Wood: maintenance/interior/wood.md
     - Others:
