@@ -197,11 +197,12 @@ nav:
     - Podcast: 'following/podcast/index.md'
     - Author: 'following/author/index.md'
     - Blogger: 'following/blogger/index.md'
-    - Lifestyle:
-      - GoSun Solar Oven: 'following/lifestyle/gosun.md'
-    - Tech:
-      - Nigel Calder: 'following/tech/nigel-calder.md'
+    - Lifestyle: 'following/lifestyle/index.md'
+      # - GoSun Solar Oven: 'following/lifestyle/gosun.md'
+      # - Tech:
+      # - Nigel Calder: 'following/tech/nigel-calder.md'
     - Sailing Japan: 'following/sailing-japan/index.md'
+    - Events: 'following/events/index.md'
   - Tutorial:
     - 'tutorial/index.md'
   - Maintenance:
