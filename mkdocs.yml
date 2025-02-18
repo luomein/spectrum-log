@@ -214,6 +214,7 @@ nav:
     - PV & Battery:
       - Solar Charge Controller: maintenance/battery/victron-energy-solar-charge-controller.md
       - Inverter: maintenance/battery/victron-energy-inverter.md
+      - Battery Monitor: maintenance/battery/victron-energy-battery-monitor.md
     - Navigation:
       - Chart Plotter: maintenance/navigation/garmin-chart-plotter.md
       - VHF: maintenance/navigation/icom-VHF.md
@@ -222,6 +223,7 @@ nav:
       - Autopilot: maintenance/navigation/simrad-autopilot.md
     - Safety:
       - Lifejacket: maintenance/safety/lifejacket.md
+      - Lifebuoy Light: maintenance/safety/lifebuoy-light.md
     - Deck:  
       - Hatch: maintenance/deck/hatch.md
     - Hull:
