@@ -4,7 +4,7 @@
 
 * Windlass
 
-    clutch nut untie
+    UV cover
 
 * Anchor and Chain
   
@@ -30,8 +30,8 @@
 
 * Cockpit
 
-    dodger restitch
-
+    dodger fasten line change
+ 
 * Mast
 
     lube main sail track
