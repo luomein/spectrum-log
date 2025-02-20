@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/5c931b11-507d-4925-b42b-f8b1f9934778)# victron energy BMV-700 Battery Monitor
+# victron energy BMV-700 Battery Monitor
 
 [product page](https://www.victronenergy.com/display-and-panels/bmv-700)
 
@@ -16,4 +16,4 @@
 
 > The below table gives an overview of the history parameters and how they are displayed in the menu. For the meaning of each parameter see the next chapter.
 
-~[history menu](victron-energy-battery-monitor/history.png)
+![history menu](victron-energy-battery-monitor/history.png)
