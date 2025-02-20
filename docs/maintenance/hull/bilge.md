@@ -2,7 +2,7 @@
 
 ## Keel Bolts
 
-![pic](bilge/keel-bolts.jpeg)
+![pic](bilge/keel-bolts.jpeg){width=50%}
 
 ## 竹炭
 
