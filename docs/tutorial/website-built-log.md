@@ -49,6 +49,10 @@ plugins:
 
 ```
 
+* 2025/02/20 updated
+
+    Alternative way to fix this issue: Make sure `mkdocs-minify-plugin` is in the requirements.txt. And make sure in the Git Action, every time the website is deployed, `pip install -r requirements.txt` is called.
+
 ### Configure GitPage
 
 In the settings of the GitHub repo, under `Pages` section,
