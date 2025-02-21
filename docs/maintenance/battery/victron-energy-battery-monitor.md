@@ -22,20 +22,20 @@
 
 | | 2025/02/21 |
 | -- | -- |
-| Deepest discharge | |
-|Last discharge | |
-|Average discharge | |
-|Cycles | |
-|Discharges | |
-|Cumulative Ah | |
-|Lowest voltage | |
-|Highest voltage | |
-|Days since last full charge | |
-|Synchronisations | |
-|Low voltage alarms | |
-|High voltage alarms | |
-|Discharged energy | |
-|Charged energy | |
+| Deepest discharge (kAh) | -0.2|
+|Last discharge (Ah) | 0|
+|Average discharge (Ah)|0 |
+|Cycles |3 |
+|Discharges |0 |
+|Cumulative Ah (kAh)| -53.9|
+|Lowest voltage (v) |-0.01 |
+|Highest voltage (v) |15.0 |
+|Days since last full charge | 0|
+|Synchronisations | 181|
+|Low voltage alarms | 0|
+|High voltage alarms |0 |
+|Discharged energy (kWh) | 670|
+|Charged energy (kWh)| 806|
 
 [mkdocs-charts-plugin](https://github.com/timvink/mkdocs-charts-plugin)
 
