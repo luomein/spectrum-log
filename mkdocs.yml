@@ -229,6 +229,7 @@ nav:
       - Lifebuoy Light: maintenance/safety/lifebuoy-light.md
     - Deck:  
       - Hatch: maintenance/deck/hatch.md
+      - Deck Ventilator: maintenance/deck/deck-ventilator.md
     - Hull:
       - Bilge: maintenance/hull/bilge.md
       - Seacock: maintenance/hull/seacock.md
