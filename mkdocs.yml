@@ -218,6 +218,8 @@ nav:
       - Solar Charge Controller: maintenance/battery/victron-energy-solar-charge-controller.md
       - Inverter: maintenance/battery/victron-energy-inverter.md
       - Battery Monitor: maintenance/battery/victron-energy-battery-monitor.md
+      - Automatic Charging Relay: maintenance/battery/blue-sea-acr.md
+      - Selector: maintenance/battery/blue-sea-selector.md
     - Navigation:
       - Chart Plotter: maintenance/navigation/garmin-chart-plotter.md
       - VHF: maintenance/navigation/icom-VHF.md
