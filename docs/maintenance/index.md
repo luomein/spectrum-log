@@ -58,6 +58,8 @@
 
     heater chimney teak crack
 
+    clean deck ventilator 
+
 * Ropework
 
     splice
