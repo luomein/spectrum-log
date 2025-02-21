@@ -94,6 +94,7 @@ theme:
 plugins:
   - blog
   - search:
+      lang: en
       separator: '[\s\u200b\-_,:!=\[\]()"`/]+|\.(?!\d)|&[lg]t;|(?!\b)(?=[A-Z][a-z])'
 #  - minify:
 #      minify_html: true
