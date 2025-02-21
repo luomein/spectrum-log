@@ -8,4 +8,4 @@
 
     Lock the gypsy and try again. Turn the clutch nut counter-clock-wise with the handle.
 
-    ![lock](lofrans-windlass/lock.jpeg)
+    ![lock](lofrans-windlass/lock.jpeg){width=50%}
