@@ -36,6 +36,7 @@ copyright: Copyright &copy; 2025 luomein
 theme:
   name: material
   custom_dir: material/overrides
+  nav_depth: 1
   features:
     - announce.dismiss
     - content.action.edit
