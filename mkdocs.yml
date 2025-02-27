@@ -218,6 +218,7 @@ nav:
       - Fuel Tank: maintenance/engine/fuel-tank.md
     - Anchor:
       - Windlass: maintenance/anchor/lofrans-windlass.md
+      - Anchor Chain Connector Swivel: maintenance/anchor/swivel.md
     - PV & Battery:
       - Solar Charge Controller: maintenance/battery/victron-energy-solar-charge-controller.md
       - Inverter: maintenance/battery/victron-energy-inverter.md
