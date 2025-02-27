@@ -190,6 +190,7 @@ nav:
     - tracks/index.md
   - Wordbank: 
     - 'wordbank/index.md'
+    - Anchor: 'wordbank/anchor/index.md'
     - Ropework: 'wordbank/ropework/index.md'  
     - Rigging: 'wordbank/rigging/index.md'
     - Navigation: 'wordbank/navigation/index.md'
