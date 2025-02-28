@@ -26,3 +26,11 @@
 
 > US Calibrations are entirely different to European DIN766 or ISO4565, and they will generally only work on their US matching gypsy. US Calibrated chain is not readily available in Europe. You can replace your US-calibrated chain with a European calibration, but the prudent course of action will be to replace the gypsy to match.
 
+## 5/16" US Specification
+
+[How to Establish The Correct Anchor Chain Calibration](https://jimmygreen.com/content/218-how-to-establish-the-correct-anchor-chain-calibrationV)
+
+> If your chain falls between the measurement for 8mm DIN766 and 10mm DIN766, it may be 5/16" US Specification.
+
+![size-diameter](calibrated-anchor-chain/size-diameter.png)
+
