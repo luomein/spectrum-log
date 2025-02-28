@@ -39,3 +39,9 @@
 [AQUA4 - USA Dimensions and Load Limits](https://jimmygreen.com/content/222-aqua4-usa-dimensions-and-load-limits)
 
 ![aqua4.png](calibrated-anchor-chain/aqua4.png)
+
+## G4 Dimensioned, Grade 43 High Test chain
+
+[G4 Dimensioned, Grade 43 High Test chain. Made in USA by Laclede](https://www.mantusmarine.com/product/g4-galvanized-chain/#tab-description)
+
+![g4.png](calibrated-anchor-chain/g4.png)
