@@ -37,3 +37,5 @@
 ## AQUA4 - USA Dimensions and Load Limits
 
 [AQUA4 - USA Dimensions and Load Limits](https://jimmygreen.com/content/222-aqua4-usa-dimensions-and-load-limits)
+
+![aqua4.png](calibrated-anchor-chain/aqua4.png)
