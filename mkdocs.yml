@@ -217,6 +217,7 @@ nav:
       - Engine Room: maintenance/engine/engine-room.md 
       - Fuel Tank: maintenance/engine/fuel-tank.md
     - Anchor:
+      - Anchor and Chain: maintenance/anchor/anchor-and-chain.md
       - Windlass: maintenance/anchor/lofrans-windlass.md
       - Anchor Chain Connector Swivel: maintenance/anchor/swivel.md
     - PV & Battery:
