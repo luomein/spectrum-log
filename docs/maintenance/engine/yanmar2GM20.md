@@ -28,7 +28,7 @@ This website provides enlargable chart and clickable. The interactive is very ha
 
 ## Racor
 
-working log at 2025/05/01
+working log at 2025/05/01, replaced with a new one (Sakura Fuel Water Separator)
 
 * Drain the fuel out by opening the screw underneath the racor.
 
@@ -37,6 +37,8 @@ working log at 2025/05/01
 * The racor's thread is viewing from underneath.
 
 ## Fine Fuel Filter
+
+working log at 2025/05/01, replaced with a new one from Yanmar
 
 * The Belt Strap Wrench is not helpful here, instead, use a flat skewdriver and a rubber hammer to work on the teeth of the retaining ring.
 
