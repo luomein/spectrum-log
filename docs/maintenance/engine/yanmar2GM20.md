@@ -49,5 +49,10 @@ This website provides enlargable chart and clickable. The interactive is very ha
     (2) on the fuel injection pump
 
     ![bleed screw](WorkshopManual_Ch7_bleeding_pic11.png)
+
+  * There is no need to bleed the fitting nut on the injector this time since the engine already started properly
  
+    ![bleed screw](WorkshopManual_Ch7_bleeding_pic12.png)
+ 
+     
       
