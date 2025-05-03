@@ -38,8 +38,16 @@ This website provides enlargable chart and clickable. The interactive is very ha
 
     To make the fuel pump works, you need to press it to the second stage, which will have a click sound. If you only press it in the first stage, it will never work.
 
-  * There are two bleeding screws before the injection pump
+  * There are two bleed screws before the injection pump. They are both Phillips screws.
+ 
+    [WorkshopManual_Ch7_bleeding](yanmar2GM20/WorkshopManual_Ch7_bleeding.pdf)
 
-    
+    (1) on the fine fuel filter
+ 
+    ![bleed screw](WorkshopManual_Ch7_bleeding_pic10.png)
+
+    (2) on the fuel injection pump
+
+    ![bleed screw](WorkshopManual_Ch7_bleeding_pic11.png)
  
       
