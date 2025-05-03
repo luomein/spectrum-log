@@ -26,6 +26,22 @@ This website provides enlargable chart and clickable. The interactive is very ha
   
   * 22190-120000
 
+## Racor
+
+working log at 2025/05/01
+
+* Drain the fuel out by opening the screw underneath the racor.
+
+* Use the Belt Strap Wrench to take the racor down.
+
+* The racor's thread is viewing from underneath.
+
+## Fine Fuel Filter
+
+* The Belt Strap Wrench is not helpful here, instead, use a flat skewdriver and a rubber hammer to work on the teeth of the retaining ring.
+
+* The retaining ring's thread is viewing from underneath.
+
 ## Air Bleeding
 
 working log at 2025/05/01
