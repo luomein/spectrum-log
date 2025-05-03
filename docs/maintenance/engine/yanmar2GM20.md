@@ -31,12 +31,14 @@ This website provides enlargable chart and clickable. The interactive is very ha
 * working log at 2025/05/01
 
   * Racor (primary fuel filter and water seperator) does not need air bleeding
-    There is a vent bolt on the Racor. Some YouTube shows how to bleed it. However, in my engine, this vent bolt is not working. I guess it is blocked.
+    
+    There is a vent screw on the Racor. Some YouTube shows how to bleed it. However, in my engine, this vent screw is not working. I guess it is blocked.
 
   * Fuel pump work as if 'dual-stage'
+
     To make the fuel pump works, you need to press it to the second stage, which will have a click sound. If you only press it in the first stage, it will never work.
 
-  * There are two bleeding bolts before the injection pump
+  * There are two bleeding screws before the injection pump
 
     
  
