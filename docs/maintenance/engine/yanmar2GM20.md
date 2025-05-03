@@ -20,11 +20,11 @@ This website provides enlargable chart and clickable. The interactive is very ha
 
 [FIG 115. FUEL PIPE](https://yanmarshop.com/en-GB/catalog/all/servicebom/yanmardata-846350/yanmar-marine-marine-main-engine-small-gm-series-2gm20-fig-115-51afuel-pipefrom-1997-09)
 
-washer
+* washer
 
-* 22190-120002
+  * 22190-120002
   
-* 22190-120000
+  * 22190-120000
 
 ## Air Bleeding
 
@@ -34,4 +34,10 @@ washer
     There is a vent bolt on the Racor. Some YouTube shows how to bleed it. However, in my engine, this vent bolt is not working. I guess it is blocked.
 
   * Fuel pump work as if 'dual-stage'
-    To make the fuel pump works, you need to press it to the second stage, which will have a click sound. If you only press it in the first stage, it will never work.  
+    To make the fuel pump works, you need to press it to the second stage, which will have a click sound. If you only press it in the first stage, it will never work.
+
+  * There are two bleeding bolts before the injection pump
+
+    
+ 
+      
