@@ -14,8 +14,8 @@
 
 * After geasing, rotate the gease pipe will make it easier to come off.
 
-![gease nipple](seacock/gease_nipple_1.jpg){width: 50%}
+![gease nipple](seacock/gease_nipple_1.jpg){width=50%}
 
-![gease nipple](seacock/gease_nipple_2.jpg){width: 50%}
+![gease nipple](seacock/gease_nipple_2.jpg){width=50%}
 
-![gease nipple](seacock/gease_nipple_3.jpg){width: 50%}
+![gease nipple](seacock/gease_nipple_3.jpg){width=50%}
