@@ -6,7 +6,7 @@
 
 ![cone-valve](seacock/Cone-valve.jpg)
 
-## Blakes Seacock 1 1/2" (38mm)
+## Blakes Seacock 1-1/2" (38mm)
 
 ## Blakes Seacock 3/4" (19mm)
 
