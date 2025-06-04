@@ -6,10 +6,6 @@
 
     UV cover
 
-* Anchor and Chain
-  
-    regalvanize
-
 * Safety
 
     first-aid-kit revise
@@ -17,10 +13,6 @@
     life jacket revise
 
     file extinguisher revise
-
-* Engine
-
-    engine room insulation layer revise
 
 * Sail
 
@@ -97,6 +89,12 @@
     formay 富貿儀器 台中市 龍井區 三港路326巷17號 04 2638-0770
   
     [website](https://www.formay.com.tw/)
+
+* Parker
+
+    台灣派克漢尼汾股份有限公司 (台北辦公室) enquiry.taiwan@parker.com +886-(0)2-2298-8987
+
+  
 
 ## Consumables
 
