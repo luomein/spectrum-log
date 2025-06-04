@@ -10,6 +10,8 @@ This website provides enlargable chart and clickable. The interactive is very ha
 
 [FIG 1. CYLINDER BLOCK](https://yanmarshop.com/en-GB/catalog/all/servicebom/yanmardata-845935/yanmar-marine-marine-main-engine-small-gm-series-2gm20-fig-1-cylinder-block)
 
+* Joint 128270-01450
+
 [FIG 39. COOLING WATER PIPE](https://yanmarshop.com/en-GB/catalog/all/servicebom/yanmardata-846239/yanmar-marine-marine-main-engine-small-gm-series-2gm20-fig-39-cooling-water-pipe)
 
 [FIG 45. FUEL FEED PUMP](https://yanmarshop.com/en-GB/catalog/all/servicebom/yanmardata-846288/yanmar-marine-marine-main-engine-small-gm-series-2gm20-fig-45-fuel-feed-pump)
