@@ -42,6 +42,12 @@ working log at 2025/05/01, replaced with a new one (Sakura Fuel Water Separator)
 
 * The racor's thread is viewing from underneath.
 
+### Products
+
+* [Parker Racor R12T](https://ph.parker.com/tw/tw/product/racor-replacement-filter-element-spin-on/r12t)
+
+* [WIX 33583](https://www.wixfilters.com/zh-tw/catalog/results/product.html/33583_wix.html)
+
 ## Fine Fuel Filter
 
 working log at 2025/05/01, replaced with a new one from Yanmar
