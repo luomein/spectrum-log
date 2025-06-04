@@ -14,6 +14,10 @@ This website provides enlargable chart and clickable. The interactive is very ha
 
 [FIG 39. COOLING WATER PIPE](https://yanmarshop.com/en-GB/catalog/all/servicebom/yanmardata-846239/yanmar-marine-marine-main-engine-small-gm-series-2gm20-fig-39-cooling-water-pipe)
 
+[FIG 41. THERMOSTAT](https://yanmarshop.com/en-GB/catalog/all/servicebom/yanmardata-846244/yanmar-marine-marine-main-engine-small-gm-series-2gm20-fig-41-thermostat)
+
+* THERMOSTAT 105582-49200
+
 [FIG 45. FUEL FEED PUMP](https://yanmarshop.com/en-GB/catalog/all/servicebom/yanmardata-846288/yanmar-marine-marine-main-engine-small-gm-series-2gm20-fig-45-fuel-feed-pump)
 
 [FIG 47. FUEL FILTER](https://yanmarshop.com/en-GB/catalog/all/servicebom/yanmardata-846308/yanmar-marine-marine-main-engine-small-gm-series-2gm20-fig-47-fuel-filter)
